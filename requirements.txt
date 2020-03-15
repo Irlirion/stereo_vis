@@ -1,0 +1,4 @@
+stereovision
+opencv-python
+opencv-contrib-python
+matplotlib
